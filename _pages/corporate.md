@@ -10,53 +10,7 @@ post_date: 2016-06-09 11:51:39
 ---
 [vc_row full_width="stretch_row" el_class="bg--dark"][vc_column][pillar_hero layout="intro-social" slider_height="height-90" image="1862"][vc_column_text css_animation="slideInUp"]
 <h1 style="text-align: center;">Understanding what counts for your business, your family, your fund.</h1>
-[/vc_column_text][/pillar_hero][/vc_column][/vc_row][vc_row][vc_column width="1/4"][pillar_accordion][pillar_accordion_content title="Hedge Funds &amp; Investments"]
-<ul>
- 	<li><a href="/industries-we-serve/hedge-funds-investments/hedge-funds/">Hedge Funds</a></li>
- 	<li><a href="/industries-we-serve/hedge-funds-investments/broker-dealers/">Broker-Dealers</a></li>
- 	<li><a href="/industries-we-serve/hedge-funds-investments/investment-managers/">Investment Managers</a></li>
-</ul>
-[/pillar_accordion_content][pillar_accordion_content title="Real Estate"]
-<ul class="menu">
- 	<li class="menu__item is-leaf first leaf menu-mlid-650"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/real-estate/developers">Developers</a></li>
- 	<li class="menu__item is-leaf first leaf menu-mlid-650"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/real-estate/brokers">Brokers</a></li>
- 	<li class="menu__item is-leaf leaf menu-mlid-651"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/real-estate/cooperatives-condominiums">Co-ops &amp; Condos</a></li>
- 	<li class="menu__item is-leaf leaf menu-mlid-652"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/real-estate/landlords">Landlords</a></li>
-</ul>
-[/pillar_accordion_content][pillar_accordion_content title="Small Businesses"]
-<div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-286 menu-level-1">
-<ul class="menu">
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/creative-agencies">Creative Agencies</a></li>
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" title="The Fashion Industry" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/fashion-industry">The Fashion Industry</a></li>
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/retail">Retail</a></li>
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/restaurants">Restaurants</a></li>
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/executive-recruiting-staffing">Executive Recruiting &amp; Staffing</a></li>
-</ul>
-</div>
-[/pillar_accordion_content][/pillar_accordion][/vc_column][vc_column width="1/4"][pillar_accordion][pillar_accordion_content title="Hedge Funds &amp; Investments"]
-<ul>
- 	<li><a href="/industries-we-serve/hedge-funds-investments/hedge-funds/">Hedge Funds</a></li>
- 	<li><a href="/industries-we-serve/hedge-funds-investments/broker-dealers/">Broker-Dealers</a></li>
- 	<li><a href="/industries-we-serve/hedge-funds-investments/investment-managers/">Investment Managers</a></li>
-</ul>
-[/pillar_accordion_content][pillar_accordion_content title="Real Estate"]
-<ul class="menu">
- 	<li class="menu__item is-leaf first leaf menu-mlid-650"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/real-estate/developers">Developers</a></li>
- 	<li class="menu__item is-leaf first leaf menu-mlid-650"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/real-estate/brokers">Brokers</a></li>
- 	<li class="menu__item is-leaf leaf menu-mlid-651"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/real-estate/cooperatives-condominiums">Co-ops &amp; Condos</a></li>
- 	<li class="menu__item is-leaf leaf menu-mlid-652"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/real-estate/landlords">Landlords</a></li>
-</ul>
-[/pillar_accordion_content][pillar_accordion_content title="Small Businesses"]
-<div class="menu-block-wrapper menu-block-2 menu-name-main-menu parent-mlid-286 menu-level-1">
-<ul class="menu">
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/creative-agencies">Creative Agencies</a></li>
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" title="The Fashion Industry" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/fashion-industry">The Fashion Industry</a></li>
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/retail">Retail</a></li>
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/restaurants">Restaurants</a></li>
- 	<li class="menu__item menu-mlid-633 is-expanded expanded"><a class="menu__link" href="http://www.rainesfischer.com/industries-we-serve/small-businesses/executive-recruiting-staffing">Executive Recruiting &amp; Staffing</a></li>
-</ul>
-</div>
-[/pillar_accordion_content][/pillar_accordion][/vc_column][vc_column width="1/4"][pillar_icon_box icon="icon-Bank" layout="combined" title="Hedge funds &amp; investments"][/pillar_icon_box][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row el_class="bg--primary"][vc_column width="1/3"][pillar_icon_box icon="icon-Ship" layout="small" title="NEW STARTUPS"]Grok integrate thinker-maker-doer piverate entrepreneur sticky note iterate waterfall is so 2000 and late 360 campaign cortado quantitative vs. qualitative.[/pillar_icon_box][/vc_column][vc_column width="1/3"][pillar_icon_box icon="icon-Fingerprint-2" layout="small" title="PERSONAL PORTFOLIOS"]Grok integrate thinker-maker-doer piverate entrepreneur sticky note iterate waterfall is so 2000 and late 360 campaign cortado quantitative vs. qualitative.[/pillar_icon_box][/vc_column][vc_column width="1/3"][pillar_icon_box icon="icon-Shop-2" layout="small" title="ONLINE STOREFRONTS"]Grok integrate thinker-maker-doer piverate entrepreneur sticky note iterate waterfall is so 2000 and late 360 campaign cortado quantitative vs. qualitative.[/pillar_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" el_class="bg--secondary"][vc_column][pillar_text_image layout="right" image="765"][vc_column_text]
+[/vc_column_text][/pillar_hero][/vc_column][/vc_row][vc_row][vc_column width="1/4"][pillar_icon_box icon="icon-Bank" layout="combined" title="Hedge funds &amp; investments"][/pillar_icon_box][/vc_column][vc_column width="1/4"][/vc_column][vc_column width="1/4"][/vc_column][vc_column width="1/4"][/vc_column][/vc_row][vc_row el_class="bg--primary"][vc_column width="1/3"][pillar_icon_box icon="icon-Ship" layout="small" title="NEW STARTUPS"]Grok integrate thinker-maker-doer piverate entrepreneur sticky note iterate waterfall is so 2000 and late 360 campaign cortado quantitative vs. qualitative.[/pillar_icon_box][/vc_column][vc_column width="1/3"][pillar_icon_box icon="icon-Fingerprint-2" layout="small" title="PERSONAL PORTFOLIOS"]Grok integrate thinker-maker-doer piverate entrepreneur sticky note iterate waterfall is so 2000 and late 360 campaign cortado quantitative vs. qualitative.[/pillar_icon_box][/vc_column][vc_column width="1/3"][pillar_icon_box icon="icon-Shop-2" layout="small" title="ONLINE STOREFRONTS"]Grok integrate thinker-maker-doer piverate entrepreneur sticky note iterate waterfall is so 2000 and late 360 campaign cortado quantitative vs. qualitative.[/pillar_icon_box][/vc_column][/vc_row][vc_row full_width="stretch_row" el_class="bg--secondary"][vc_column][pillar_text_image layout="right" image="765"][vc_column_text]
 <h3>Assemble pages with over 150 unique content blocks</h3>
 Pillar combines smart, modern styling with all the features you’ll need to launch websites of almost any kind. Achieve results faster than ever with the included Visual Composer Page Builder.
 
