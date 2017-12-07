@@ -13,11 +13,7 @@ post_date: 2017-11-29 16:21:36
 <h3 style="text-align: center;">Industries We Serve</h3>
 <p class="lead" style="text-align: center;">With more than 30 years of experience serving many industries and individuals, we know what is most important to you.</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row el_class="section--overlap"][vc_column width="1/3" css=".vc_custom_1512689991227{margin: 0px !important;border-width: 0px !important;padding: 0px !important;}"][pillar_icon_box icon="icon-Bar-Chart" layout="boxed-icon" title="Hedge Funds &amp; Investments"]As a small firm with Big-Four expertise, Raines &amp; Fischer is the cost-effective choice for hedge funds and other alternative investment start-ups.
-<ul>
- 	<li><a href="/industries-we-serve/hedge-funds-investments/hedge-funds" target="_self">Hedge Funds →</a></li>
- 	<li><a href="/industries-we-serve/hedge-funds-and-investors/broker-dealers" target="_self">Broker-Dealers →</a></li>
- 	<li><a href="/industries-we-serve/hedge-funds-and-investors/investment-managers" target="_self">Investment Managers →</a></li>
-</ul>
+<h6><a href="/industries-we-serve/hedge-funds-investments/hedge-funds" target="_self">Hedge Funds</a> <a href="/industries-we-serve/hedge-funds-and-investors/broker-dealers" target="_self">Broker-Dealers</a> <a href="/industries-we-serve/hedge-funds-and-investors/investment-managers" target="_self">Investment Managers</a></h6>
 [/pillar_icon_box][pillar_icon_box icon="icon-Worker" layout="boxed-icon" title="Real Estate"]
 <h6><a href="http://www.rainesfischer.com/industries-we-serve/real-estate/developers" target="_self">Developers</a> <a href="http://www.rainesfischer.com/industries-we-serve/real-estate/brokers" target="_self">Brokers</a> <a href="http://www.rainesfischer.com/industries-we-serve/real-estate/cooperatives-condominiums" target="_self">Co-ops &amp; Condos</a> <a href="http://www.rainesfischer.com/industries-we-serve/real-estate/landlords" target="_self">Landlords</a></h6>
 Raines &amp; Fischer has extensive experience serving the needs of the Real Estate industry for more than 30 years.
