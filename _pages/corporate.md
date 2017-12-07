@@ -24,4 +24,4 @@ post_date: 2016-06-09 11:51:39
 <h3>From Our Partners</h3>
 Brian Uhlman talks about one of the biggest challenges new hedge fund managers face. Hint: it's not about raising money.
 
-<a href="/pages/about-company/"><span class="btn__text">READ MORE</span></a>[/vc_column_text][/pillar_text_image][/vc_column][/vc_row][vc_row css=".vc_custom_1465473481559{padding-top: 70px !important;padding-bottom: 70px !important;}"][vc_column][pillar_client pppage="10"][/vc_column][/vc_row]
+<a href="/one-of-the-biggest-challenges-facing-new-hedge-funds"><span class="btn__text">READ MORE</span></a>[/vc_column_text][/pillar_text_image][/vc_column][/vc_row][vc_row css=".vc_custom_1465473481559{padding-top: 70px !important;padding-bottom: 70px !important;}"][vc_column][pillar_client pppage="10"][/vc_column][/vc_row]
