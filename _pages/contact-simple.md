@@ -4,8 +4,7 @@ post_title: Contact Simple
 author: admin
 post_excerpt: ""
 layout: page
-permalink: >
-  http://35.188.22.147/pages/contact-simple/
+permalink: http://35.188.22.147/contact-simple/
 published: true
 post_date: 2016-06-01 14:41:11
 ---
