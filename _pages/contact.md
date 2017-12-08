@@ -1,10 +1,10 @@
 ---
 ID: 182
-post_title: Contact Simple
+post_title: Contact
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://35.188.22.147/contact-simple/
+permalink: http://35.188.22.147/contact/
 published: true
 post_date: 2016-06-01 14:41:11
 ---
