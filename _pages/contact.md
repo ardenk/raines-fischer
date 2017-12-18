@@ -8,10 +8,10 @@ permalink: http://35.188.22.147/contact/
 published: true
 post_date: 2016-06-01 14:41:11
 ---
-[vc_row parallax="content-moving" parallax_image="1977" css=".vc_custom_1513632406614{padding-top: 250px !important;padding-bottom: 220px !important;}"][vc_column][vc_column_text css_animation="bottom-to-top"]
+[vc_row css=".vc_custom_1513632543640{margin: 0px !important;border-width: 0px !important;padding: 0px !important;background-color: #4a4a4a !important;}"][vc_column css=".vc_custom_1513632572897{margin: 0px !important;border-width: 0px !important;padding: 0px !important;}"][pillar_hero slider_height="height-80" overlay_opacity="7" image="1977"][vc_column_text css_animation="bottom-to-top"]
 <h3 style="text-align: center;">Let's Work Together</h3>
 <p class="lead" style="text-align: center;">We are here to help you, from day-to-day services to planning a more <span style="color: #7b9a3e;">verdant</span> future.</p>
-[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" el_class="no-gaps"][vc_column width="1/3" el_class="bg--white" css=".vc_custom_1470239984482{padding-top: 90px !important;padding-bottom: 70px !important;}"][pillar_icon_box icon="icon-Map-Marker2" layout="large" alignment="text-center" title="Visit Our Offices"]
+[/vc_column_text][/pillar_hero][/vc_column][/vc_row][vc_row full_width="stretch_row" content_placement="middle" el_class="no-gaps"][vc_column width="1/3" el_class="bg--white" css=".vc_custom_1470239984482{padding-top: 90px !important;padding-bottom: 70px !important;}"][pillar_icon_box icon="icon-Map-Marker2" layout="large" alignment="text-center" title="Visit Our Offices"]
 <p style="text-align: center;">555 Fifth Avenue
 9th Floor
 New York, NY 10017</p>
