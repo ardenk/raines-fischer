@@ -8,7 +8,9 @@ permalink: http://35.188.22.147/meet-our-team/
 published: true
 post_date: 2017-12-20 18:03:11
 ---
-[vc_row full_width="stretch_row"][vc_column][pillar_hero layout="intro-social" slider_height="height-80"][/pillar_hero][/vc_column][/vc_row][vc_row css=".vc_custom_1513793217273{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 80px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}"][vc_column width="1/4"][/vc_column][vc_column width="1/2"][vc_column_text]
+[vc_row full_width="stretch_row"][vc_column][pillar_hero layout="intro-social" slider_height="height-80" image="2061"][vc_column_text]
+<h1 style="text-align: center;">Meet Our Team of Committed Experts</h1>
+[/vc_column_text][/pillar_hero][/vc_column][/vc_row][vc_row css=".vc_custom_1513793217273{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-top: 80px !important;padding-right: 0px !important;padding-bottom: 0px !important;padding-left: 0px !important;}"][vc_column width="1/4"][/vc_column][vc_column width="1/2"][vc_column_text]
 <h3 style="text-align: center;">Our Partners</h3>
 <blockquote>
 <p style="text-align: center;">Raines &amp; Fischer is led by a team of four committed partners, who bring an exceptional breadth of experience to our clients. We work closely together, and directly with our clients, so that any concerns or needs you may have – from complex tax matters to questions about estate planning – will be addressed quickly and knowledgeably.</p>
