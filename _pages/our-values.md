@@ -14,7 +14,7 @@ post_date: 2017-11-30 13:31:09
 [/vc_column_text][pillar_icon_box icon="icon-Handshake" layout="large-colored" alignment="text-center"][/pillar_icon_box][vc_column_text]
 <h3 style="font-weight: 400;"><b><strong>It’s about more than just the numbers. It’s about you.</strong></b></h3>
 <p style="font-weight: 400;">Once you become a client of Raines &amp; Fischer, you’ll quickly discover that we put one important principle before all others: our clients come first. That means that, regardless of your organization’s size, your industry, or the services you require, we make it our business to understand your specific goals and accounting needs, and to meet them with a high level of personalized service at a reasonable cost.</p>
-[/vc_column_text][pillar_icon_box icon="icon-Rgb" layout="large-colored" alignment="text-center"][/pillar_icon_box][vc_column_text]
+[/vc_column_text][pillar_icon_box icon="icon-Refresh" layout="large-colored" alignment="text-center"][/pillar_icon_box][vc_column_text]
 <h3 style="font-weight: 400;"><b><strong>The expertise of a Big-Four firm.</strong></b></h3>
 <p style="font-weight: 400;">Established in 1984, Raines &amp; Fischer LLP is a full-service Certified Public Accounting firm based in New York City, whose primary focus is to service closely held entrepreneurial-run businesses, start-up hedge funds, and high-net-worth individuals.</p>
 <p style="font-weight: 400;">All of our partners are highly skilled CPAs and many of our staff hold advanced degrees in the areas of law, taxation, and finance, giving you the same level and breadth of expertise usually found only at Big-Four firms. We are committed to exceeding industry standards and to providing continuing professional development for all of our staff.</p>
