@@ -9,10 +9,8 @@ permalink: >
 published: true
 post_date: 2017-11-29 17:05:32
 ---
-[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2092" css=".vc_custom_1513962772808{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text css=".vc_custom_1513963545400{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-right: 0px !important;padding-left: 0px !important;}"]
-<h6 style="text-align: center;">We are proud to serve</h6>
-<p style="text-align: center;">—</p>
-
+[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2092" css=".vc_custom_1513962772808{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text css=".vc_custom_1513963980896{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-top-width: 0px !important;border-right-width: 0px !important;border-bottom-width: 0px !important;border-left-width: 0px !important;padding-right: 0px !important;padding-left: 0px !important;}"]
+<h5 style="text-align: center;">We are proud to serve</h5>
 <h2 style="text-align: center;">Hedge Funds</h2>
 <p style="text-align: center;">Benefit from big-firm expertise without the big price tag</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/2"][vc_column_text]<strong>Raines &amp; Fischer specializes in hedge fund start-ups.</strong>
