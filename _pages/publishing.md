@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-29 17:45:26
 ---
-[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2151" css=".vc_custom_1513970425198{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text]
+[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2154" css=".vc_custom_1513970701935{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text]
 <h5 style="text-align: center;">We are proud to serve</h5>
 <h1 style="text-align: center;">Publishers</h1>
 <p style="text-align: center;">We will help you navigate everything from nexus to mergers, in a rapidly changing industry</p>
