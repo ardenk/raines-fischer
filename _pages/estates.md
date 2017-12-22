@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-29 18:05:06
 ---
-[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2185" css=".vc_custom_1513974186434{padding-top: 15% !important;padding-bottom: 10% !important;}"][vc_column][vc_column_text]
+[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2190" css=".vc_custom_1513974855725{padding-top: 15% !important;padding-bottom: 10% !important;}"][vc_column][vc_column_text]
 <h5 style="text-align: center;">We are proud to serve</h5>
 <h1 style="text-align: center;">Estates</h1>
 <p style="text-align: center;">Knowledgeable in the field of trust and estate planning, we can tackle all complex issues that may arise</p>
