@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-29 16:21:36
 ---
-[vc_row parallax="content-moving" parallax_image="1654" css=".vc_custom_1513948579954{padding-top: 250px !important;padding-bottom: 220px !important;}"][vc_column][vc_column_text css_animation="bottom-to-top" css=".vc_custom_1511971993291{padding-right: 10% !important;padding-left: 10% !important;}"]
+[vc_row parallax="content-moving" parallax_image="2085" css=".vc_custom_1513948662968{padding-top: 250px !important;padding-bottom: 220px !important;}"][vc_column][vc_column_text css_animation="bottom-to-top" css=".vc_custom_1511971993291{padding-right: 10% !important;padding-left: 10% !important;}"]
 <h3 style="text-align: center;">Industries We Serve</h3>
 <p class="lead" style="text-align: center;">With more than 30 years of experience serving many industries and individuals, we know what is most important to you.</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row el_class="section--overlap"][vc_column width="1/3" css=".vc_custom_1512689991227{margin: 0px !important;border-width: 0px !important;padding: 0px !important;}"][pillar_icon_box icon="icon-Bar-Chart" layout="boxed-icon" title="Hedge Funds &amp; Investments"]As a small firm with Big-Four expertise, Raines &amp; Fischer is the cost-effective choice for hedge funds and other alternative investment start-ups.
