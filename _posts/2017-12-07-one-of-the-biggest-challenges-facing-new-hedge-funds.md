@@ -7,7 +7,7 @@ author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  http://35.188.22.147/one-of-the-biggest-challenges-facing-new-hedge-funds/
+  http://35.225.105.188/one-of-the-biggest-challenges-facing-new-hedge-funds/
 published: true
 post_date: 2017-12-07 22:28:30
 ---
