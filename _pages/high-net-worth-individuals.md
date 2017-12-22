@@ -9,15 +9,16 @@ permalink: >
 published: true
 post_date: 2017-11-29 18:05:19
 ---
-<p>[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2193" css=".vc_custom_1513975119776{padding-top: 15% !important;padding-bottom: 10% !important;}"][vc_column][vc_column_text]</p>
+[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2193" css=".vc_custom_1513975119776{padding-top: 15% !important;padding-bottom: 10% !important;}"][vc_column][vc_column_text]
 <h5 style="text-align: center;">We are proud to serve</h5>
-<h1 style="text-align: center;">Estates</h1>
-<p style="text-align: center;">Knowledgeable in the field of trust and estate planning, we can tackle all complex issues that may arise</p>
-<p>[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/2"][vc_column_text]</p>
-<p style="font-weight: 400;"><b><strong>When choosing a firm to handle your estate planning, experience and service matter.</strong></b></p>
-<p style="font-weight: 400;">Trust and estate planning has always been an important function, and it has become increasingly complex and challenging in recent years as estate tax laws have been in constant flux. When looking for a firm to handle your needs, it’s crucial to choose experienced and skilled representation in planning for various trust and estate issues, as missteps can lead to large, unexpected tax bills. You need a firm with both CPA and legal experience that can plan for the unexpected, is up to date on the constant law changes, and is able to take the lead when it comes to tax compliance. You need a firm that can help you develop an estate plan, is familiar with the many trust instruments available, and is prepared and experienced enough to tackle all the complex issues that will arise.</p>
-<p style="font-weight: 400;"><b><strong>Raines &amp; Fischer is such a firm, able to provide highly personalized CPA services and expert legal guidance every step of the way.</strong></b></p>
-<p style="font-weight: 400;">Trust and estate planning has been one of Raines &amp; Fischer’s fastest growing practice areas in recent years. Our managing partner, Alan P. Raines, Esq., is also a practicing attorney, who brings a wealth of experience in handling estate and trust issues to you. All our partners are well versed in trusts and estate planning as well, and, together, we are able to offer step-by-step guidance to ensure your wishes are met.</p>
-<p style="font-weight: 400;">In the planning stage, we will help you develop an estate and gift plan, write or modify your last will and testament, and create trust vehicles. In the implementation stage, we can serve as executors for your estate, or alternatively, assist your executors in probating your estate, and handle all your tax compliance needs, including filing all estate tax returns, and respresenting the estate at estate tax audits when required.</p>
-<p style="font-weight: 400;">With our depth of experience in law and accounting, high level of personalized service, and active partner involvement, Raines &amp; Fischer is the perfect choice for you and your loved ones’ needs.</p>
-<p>[/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][/vc_row]</p>
+<h1 style="text-align: center;">High-Net-Worth Individuals</h1>
+<p style="text-align: center;">Year round advising on preserving wealth and minimizing tax exposure</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/2"][vc_column_text]<strong>Managing high net worth requires taking a look at the bigger picture.</strong>
+
+As a highly successful person, you have specialized tax planning and compliance needs that demand more than ordinary accounting services. If you are like many of our private clients, you may have personal assets as well as business interests or investments that require the filing of complex forms not only with the IRS but perhaps in many states as well. In circumstances like these, preserving wealth and minimizing tax exposure requires careful planning and advisement throughout the year, not just during the tax-filing season.
+
+<strong>We have been serving the unique and complex needs of wealthy individuals for more than 30 years.</strong>
+
+With decades of experience in tax planning and compliance, the Raines &amp; Fischer team is well versed in the most complex issues that plague individual taxpayers. We offer step-by-step guidance all year, not just at tax-time, and have experience in filing the most complex of tax returns in every part of the country.
+
+And we go beyond just accounting. As seasoned business advisors, we can also assist you with trust and estate planning, review your expenses and cash flow to identify areas in which to maximize savings, and help plan for significant future outlays, such as the purchase of a second or third home, all at a high level of personalized, expert service.[/vc_column_text][/vc_column][vc_column width="1/4"][/vc_column][/vc_row]
