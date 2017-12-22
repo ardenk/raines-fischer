@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-29 17:07:35
 ---
-[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2125" css=".vc_custom_1513968379946{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text]
+[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2127" css=".vc_custom_1513968577355{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text]
 <h5 style="text-align: center;">We are proud to serve</h5>
 <h1 style="text-align: center;">Landlords</h1>
 <p style="text-align: center;">Experts in building ownership, from taxes to property management</p>
