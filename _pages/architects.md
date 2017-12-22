@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-29 17:46:07
 ---
-[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2160" css=".vc_custom_1513971440749{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text]
+[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2160" css=".vc_custom_1513971588974{padding-top: 15% !important;padding-bottom: 10% !important;}"][vc_column][vc_column_text]
 <h5 style="text-align: center;">We are proud to serve</h5>
 <h1 style="text-align: center;">Architects</h1>
 <p style="text-align: center;">Benefit from 30 years of financial expertise integrated into your company's operations</p>
