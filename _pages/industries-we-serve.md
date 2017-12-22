@@ -34,7 +34,7 @@ We have partners who have served on nonprofit organization boards, have assisted
 
 [/pillar_icon_box][pillar_icon_box icon="icon-Gentleman" layout="boxed-icon" title="High-Net-Worth Individuals"]As a highly successful person, you have specialized tax planning and compliance needs that demand more than ordinary accounting services. We offer step-by-step guidance all year, not just at tax-time, and have experience in filing the most complex of tax returns in every part of the country. And we go beyond just accounting. As seasoned business advisors, we can also assist you with trust and estate planning, review your expenses and cash flow to identify areas in which to maximize savings, and help plan for significant future outlays, such as the purchase of a second or third home, all at a high level of personalized, expert service.
 
-[/pillar_icon_box][/vc_column][/vc_row][vc_row parallax="content-moving" parallax_image="202"][vc_column][vc_column_text css=".vc_custom_1513948392348{margin-bottom: 0px !important;}"]
+[/pillar_icon_box][/vc_column][/vc_row][vc_row parallax="content-moving" parallax_image="202"][vc_column][vc_column_text css=".vc_custom_1513948460102{margin-bottom: 0px !important;}"]
 <h4 style="text-align: center;">What can we do for your business?</h4>
-<p style="text-align: center;"><a class="btn btn--primary" href="/pages/contact-simple/"><span class="btn__text">ARRANGE A CONSULTATION</span></a></p>
+<p style="text-align: center;"><a class="btn btn--primary" href="/contact/"><span class="btn__text">ARRANGE A CONSULTATION</span></a></p>
 [/vc_column_text][/vc_column][/vc_row]
