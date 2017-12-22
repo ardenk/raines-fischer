@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-11-29 17:44:40
 ---
-[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2136" css=".vc_custom_1513969178793{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text]
+[vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2138" css=".vc_custom_1513969378646{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text]
 <h5 style="text-align: center;">We are proud to serve</h5>
 <h1 style="text-align: center;">Retail Businesses</h1>
 <p style="text-align: center;">Helping you maximize your profit margins</p>
