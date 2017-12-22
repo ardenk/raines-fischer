@@ -10,9 +10,7 @@ published: true
 post_date: 2017-11-29 17:06:13
 ---
 [vc_row full_width="stretch_row" parallax="content-moving" parallax_image="2103" css=".vc_custom_1513963340591{padding-top: 220px !important;padding-bottom: 150px !important;}"][vc_column][vc_column_text]
-<h6 style="text-align: center;">We are proud to serve</h6>
-<p style="text-align: center;">—</p>
-
+<h5 style="text-align: center;">We are proud to serve</h5>
 <h1 style="text-align: center;">Investment Managers</h1>
 <p style="text-align: center;">Partner-level attention, and a flexible fee structure</p>
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column width="1/4"][/vc_column][vc_column width="1/2"][vc_column_text]<strong>Raines &amp; Fischer offers professional guidance and advice to start your fund and ensure ongoing compliance.</strong>
